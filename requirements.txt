@@ -1,0 +1,7 @@
+requests~=2.31.0
+tqdm~=4.66.2
+pip~=24.0
+colorama~=0.4.6
+certifi~=2024.2.2
+urllib3~=2.2.0
+idna~=3.6
